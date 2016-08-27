@@ -1,9 +1,6 @@
 oi
 asdas
 #Lucas #aki #GPL
-<<<<<<< HEAD
-
 #CarlosEduardoSOdre Marcianni
-=======
 GNU is Not Unix
->>>>>>> 33d3e5ec60408491591f98f3fbf60a4a7f55e12a
+Consertando umas cagadas
